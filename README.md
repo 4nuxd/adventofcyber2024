@@ -37,8 +37,8 @@ Each day’s writeup will include:
 | 17   | He analyzed and analyzed till his analyzer was sore! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-17-he-analyzed-and-analyzed-till-his-analyzer-was-sore-7dca669b16d8) | [Solution](./Day17.md) |
 | 18   | I could use a little AI interaction! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-18-i-could-use-a-little-ai-interaction-b4a4118abb3d) | [Solution](./Day18.md) |
 | 19   | I merely noticed that you’re improperly stored, my dear secret! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-19-i-merely-noticed-that-youre-improperly-stored-my-dear-4c2d6df222cd) | [Solution](./Day19.md) |
-| 20   | Upcoming! | ✅ | [Medium]() | [Solution](./Day18.md) |
-| 21   | Upcoming! | ✅ | [Medium]() | [Solution](./Day18.md) |
+| 20   |  If you utter so much as one packet… | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-20-if-you-utter-so-much-as-one-packet-d46f1545037c) | [Solution](./Day20.md) |
+| 21   | Upcoming! | ✅ | [Medium]() | [Solution](./Day22.md) |
 | 18   | Upcoming! | ✅ | [Medium]() | [Solution](./Day18.md) |
 
 ---
